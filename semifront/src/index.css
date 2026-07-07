@@ -1,0 +1,7 @@
+@import "tailwindcss";
+:root {
+  font-family: "Pretendard", sans-serif;
+}
+body {
+  min-width: 1280px;
+}
